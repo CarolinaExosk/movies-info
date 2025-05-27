@@ -10,7 +10,7 @@ export const Container = styled.div`
     padding: 2rem;
     min-height: 100vh;
     background-color: #000000;
-    background-image: url("https://www.transparenttextures.com/patterns/film.png"); /* textura de rolo de filme */
+    background-image: url("https://www.transparenttextures.com/patterns/film.png"); 
     background-size: 600px auto;
     animation: ${filmRoll} 60s linear infinite;
 `;
